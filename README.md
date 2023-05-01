@@ -23,9 +23,20 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 - [Medium] (#)
 - [Kaggle] (#)
 
-#  My Favourite Books
+#  📝 My Favourite Books
+| Title                                                        | Link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|  **Trustworthy online controlled experiments: A practical guide to A/B testing.** Kohavi, R., Tang, D. and Xu, Y., 2020, Cambridge University Press. | [[link](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)] |
+| **Hypothesis Testing: An Intuitive Guide for Making Data Driven Decisions** Jim Frost|[link](https://www.amazon.com/Hypothesis-Testing-Intuitive-Making-Decisions/dp/173543115X)|
 
-# 🛠️ My Credentials
+#  My Credentials
+| Credential Name | Link to Credential | Description |
+|---|---|---|
+| [Udacity Nanodegree Program- Data Analyst, in collaboration with Kaggle](https://www.udacity.com/course/data-analyst-nanodegree--nd002)| [Credential]() |Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions|
+| [PCAP™ – Certified Associate in Python Programming (Exam PCAP-31-0x)](https://pythoninstitute.org/pcap)| [Credential]() | PCAP™ – Certified Associate in Python Programming certification focuses on the Object-Oriented Programming approach to Python, and shows that the individual is familiar with the more advanced aspects of programming, including the essentials of OOP, the essentials of modules and packages, the exception handling mechanism in OOP, advanced operations on strings, list comprehensions, lambdas, generators, closures, and file processing.|
+| [PCEP™ – Certified Entry-Level Python Programmer, (Exam PCEP-30-0x)](https://pythoninstitute.org/pcep)| [Credential]() | PCEP™ – Certified Entry-Level Python Programmer certification shows that the individual is familiar with universal computer programming concepts like data types, containers, functions, conditions, loops, as well as Python programming language syntax, semantics, and the runtime environment. |  
+
+
 
 # 🗺 Portfolio
 
