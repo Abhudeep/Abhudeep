@@ -1,7 +1,7 @@
 # 📚 Hi, and welcome to my GitHub repository! 🙋🏻‍♀️
 I am **Abhudeep Arora**, project manager, data analyst and a data analytics and data science content creator and data learner!
 
-Thanks for visiting my [portfolio] (https://github.com/Abhudeep/Portfolio/blob/main/README.md) for technical audiences here on Github!
+Thanks for visiting my [portfolio](https://github.com/Abhudeep/Portfolio/blob/main/README.md) for technical audiences here on Github!
 
 # 📚 Projects & Guides 📚
 In my portfolio, you can find my projects and guides on data analytics, machine learning, deep learning and data science!
