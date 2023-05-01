@@ -60,13 +60,13 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 These are a list of notebooks created by me, containing codes to **study, revise and/or ramp up under-the-hood knowledge** sourced while studying various courses/books/projects:
 | Guide Name | Description | Link |
 |---|---|---|
-| All about numpy | | |
-| All about pandas- assess and clean data | | |
-| All about data visualization| | |
-| Statistics and Hypothesis Testing| | |
-| A/B Testing - solid base| | |
-| Regression| | |
-| Classification | |
+| **All about numpy** | | |
+| **All about pandas- assess and clean data** | | |
+| **All about data visualization** | | |
+| **Statistics and Hypothesis Testing** | | |
+| **A/B Testing - solid base**| | |
+| **Regression**| | |
+| **Classification** | |
 
 
 # SQL
