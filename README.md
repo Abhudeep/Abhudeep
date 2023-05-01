@@ -60,13 +60,13 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 These are a list of notebooks created by me, containing codes to **study, revise and/or ramp up under-the-hood knowledge** sourced while studying various courses/books/projects:
 | Guide Name | Description | Link |
 |---|---|---|
-| **All about numpy** | | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_numpy.ipynb)|
-| **All about pandas- assess and clean data** | | [link] |
-| **All about data visualization** | |  [link]|
-| **Statistics and Hypothesis Testing** | |  [link] |
-| **A/B Testing - solid base**| |  [link]|
-| **Regression**| |  [link]|
-| **Classification** |  [link]|
+| **All about NumPy** | | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_numpy.ipynb)|
+| **All about Pandas- assess and clean data** | | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_pandas.ipynb) |
+| **All about Data Visualization** | |  [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Visualization.ipynb)|
+| **Statistics and Hypothesis Testing** | |  [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Statistics.ipynb)|
+| **A/B Testing - solid base**| |  [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Analyze_ab_test_results_notebook.ipynb)|
+| **Regression**| |  [link]()|
+| **Classification** |  |[link]()|
 
 
 # SQL
