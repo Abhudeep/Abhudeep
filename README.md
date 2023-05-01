@@ -55,7 +55,7 @@ Feel free to chat with me on [LinkedIn]() about my projects!
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 
-# Abhu's Guides
+#  📚 Abhu's Guides
 These are a list of notebooks created by me, containing codes to **study, revise and/or ramp up under-the-hood knowledge** sourced while studying various courses/books/projects:
 | Guide Name | Description | Link |
 |---|---|---|
@@ -91,7 +91,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ***
 
-# Python
+# 🐍 Python
 
 Skills: Data cleaning, wrangling, visualisation, analysis
 
