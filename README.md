@@ -23,6 +23,9 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 - [Medium] (#)
 - [Kaggle] (#)
 
+#  My Favourite Books
+
+# 🛠️ My Credentials
 
 # 🗺 Portfolio
 
