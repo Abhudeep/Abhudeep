@@ -23,7 +23,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 - [Medium] (#)
 - [Kaggle] (#)
 
-#  My Credentials
+# 🏆 My Credentials
 | Credential Name | Link to Credential | Description |
 |---|---|---|
 | [Caltech (California Institute of Technology) Data Science Bootcamp](https://pg-p.ctme.caltech.edu/data-science-bootcamp-online-certification-course?utm_source=google&utm_medium=cpc&utm_term=caltech%20data%20science%20bootcamp&utm_content=19137598291-142786994623-652960406359&utm_device=c&utm_campaign=Caltechdomain+-+Search-US-25_54-en+-+PU+-+DataCluster-DSBI-Bootcamp-CDSB-Caltech+-+QueryType:Partner+University,Area-adgroup-Caltech+Data+Science+Bootcamp+-+Uni:Caltech-Subcategory:Data+Science-PT:Bootcamp-MT:Exact&gad=1&gclid=EAIaIQobChMIy7yzo_fU_gIV4hStBh0iXg7rEAAYASAAEgL0kPD_BwE) | [Credential]() | Learnt to make data-driven decisions through this acclaimed bootcamp that delivers a high-engagement learning experience, leveraging Caltech’s academic excellence in data science. Topics included:Data Visualization, Deep Learning, Descriptive Statistics, Ensemble Learning, Exploratory Data Analysis, Inferential Statistics, Model Building and Fine Tuning, Supervised and Unsupervised Learning |
