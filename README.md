@@ -63,10 +63,11 @@ These are a list of notebooks created by me, containing codes to **study, revise
 | **All about NumPy** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_numpy.ipynb)| NumPy methods including mathematical, logical, shape manipulation, sorting, selecting, basic linear algebra, basic statistical operations, random simulation and much more. | 
 | **All about Pandas- assess and clean data** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_pandas.ipynb)|Step by step guide for for data manipulation and analysis using Pandas. | 
 | **All about Data Visualization** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Visualization.ipynb)| Step by step guide using Matplotlib and Seaborn |
-| **Statistics and Hypothesis Testing** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Statistics.ipynb)||
-| **A/B Testing - solid base**|[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Analyze_ab_test_results_notebook.ipynb)| |
+| **Statistics and Hypothesis Testing** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Statistics.ipynb)| Hypothesis tests- parametric and non parametric, with Python code and calling Statsmodel|
+| **A/B Testing - solid base**|[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Analyze_ab_test_results_notebook.ipynb)| Basics of A/B testing, examples and learning |
 | **Regression**| [link]()||
 | **Classification** |[link]()||
+| **SQL** |[link]()||
 
 
 # SQL
