@@ -78,7 +78,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🛍 [Maven Fuzzy Factory - Ongoing](#) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
+| 🛍 [Maven Fuzzy Factory - Ongoing] | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
 | 🎬 [Marketing Analytics Case Study - Ongoing]  |  |  | 
 | 🍜[Danny's Diner] |I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | |  
 | 🍕[Pizza Runner] |I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  |  
@@ -89,7 +89,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 | 🍒[Fresh Segments] |I analyse customer behavior and interests to help clients understand their customers.  |  |  
 | 👩🏻‍⚕️ [Health Analytics Case Study] |  | Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median) |  
 | 🦠 [Covid-19 and the Impact on Malaysia Stock Market] | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  |
-| 👩🏻‍💼 [Streamlining Employee Data]() |  |  |
+| 👩🏻‍💼 [Streamlining Employee Data] |  |  |
 
 ***
 
@@ -102,7 +102,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
 | 📺 [TMDb Movie Analysis](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project2-%20Kaggle-Movie%20Dataset%20.ipynb) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _pandas, matplotlib_ |   
-| ⛽️ [311-Request-Analysis] (https://github.com/Abhudeep/311-Request-Analysis/blob/main/data%20analysis.ipynb) | Data Wrangling & EDA | roject involved data analysis of service request (311) calls from New York City utilizing data wrangling techniques to understand the pattern in the data and visualize the major types of complaints |  _pandas, matplotlib_ |   
+| ⛽️ [311-Request-Analysis](https://github.com/Abhudeep/311-Request-Analysis/blob/main/data%20analysis.ipynb) | Data Wrangling & EDA | roject involved data analysis of service request (311) calls from New York City utilizing data wrangling techniques to understand the pattern in the data and visualize the major types of complaints |  _pandas, matplotlib_ |   
 | 🍷 [Wine Quality](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity%20Project%20Wine%20quality.ipynb) | Data Wrangling & EDA | A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality. | _pandas, matplotlib_ |   
 | 🌤 [Explore Weather Trends] | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | _pandas, matplotlib_ |
 | 🛍 [Super Store Analysis] | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | _pandas, matplotlib, seaborn_ |
@@ -123,7 +123,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge]() |  | [Link]() |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market]() | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link]() |
+| 🦄 [Maven Unicorn Challenge] |  | [Link]() |
+| 🦠 [Covid-19 and the Impact on Malaysia Stock Market] | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link]() |
 
 ***
