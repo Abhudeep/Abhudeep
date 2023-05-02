@@ -58,13 +58,13 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 
 #  📚 Abhu's Guides
 These are a list of notebooks created by me, containing codes to **study, revise and/or ramp up under-the-hood knowledge** sourced while studying various courses/books/projects:
-| Guide Name | Description | Link |
+| Guide Name | Link | Description |
 |---|---|---|
-| **All about NumPy** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_numpy.ipynb)| NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more. | 
-| **All about Pandas- assess and clean data** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_pandas.ipynb)| As an open-source software library built on top of Python specifically for data manipulation and analysis, Pandas offers data structure and operations for  powerful, flexible, and easy-to-use data analysis and manipulation. | 
-| **All about Data Visualization** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Visualization.ipynb)|Matplotlib is a library in Python that enables users to generate visualizations like histograms, scatter plots, bar charts, pie charts and much more. Seaborn is a visualization library that is built on top of Matplotlib. It provides data visualizations that are typically more aesthetic and statistically sophisticated.|
-| **Statistics and Hypothesis Testing** | |  [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Statistics.ipynb)|
-| **A/B Testing - solid base**|[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Analyze_ab_test_results_notebook.ipynb)|
+| **All about NumPy** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_numpy.ipynb)| NumPy methods including mathematical, logical, shape manipulation, sorting, selecting, basic linear algebra, basic statistical operations, random simulation and much more. | 
+| **All about Pandas- assess and clean data** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/All_about_pandas.ipynb)|Step by step guide for for data manipulation and analysis using Pandas. | 
+| **All about Data Visualization** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Visualization.ipynb)| Step by step guide using Matplotlib and Seaborn |
+| **Statistics and Hypothesis Testing** | [link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Statistics.ipynb)||
+| **A/B Testing - solid base**|[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Analyze_ab_test_results_notebook.ipynb)| |
 | **Regression**| [link]()||
 | **Classification** |[link]()||
 
