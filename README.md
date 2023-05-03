@@ -14,7 +14,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 
 # 🛠️ My Tools
 - Databases: SQL (PostgreSQL, MySQL), Excel
-- Python: NumPy, Pandas
+- Python: NumPy, Pandas, statsmodel, scikit-learn
 - Visualisation: Tableau, Matplotlib, Seaborn
 - Project Management: 
 
