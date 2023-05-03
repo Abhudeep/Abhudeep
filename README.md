@@ -40,8 +40,8 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 |  **Trustworthy online controlled experiments: A practical guide to A/B testing.** Kohavi, R., Tang, D. and Xu, Y., 2020, Cambridge University Press. | [link](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) |
 | **Hypothesis Testing: An Intuitive Guide for Making Data Driven Decisions** Jim Frost| [link](https://www.amazon.com/Hypothesis-Testing-Intuitive-Making-Decisions/dp/173543115X)|
 
-# Portfolio 🗺 
-
+# Portfolio  
+🗺
 Hi there! 🙋🏻‍♀️
 
 Welcome to my Portfolio  where I provide a walkthrough to all of my notebooks, data science projects and courses.
@@ -93,8 +93,8 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ***
 
-# Python 🐍
-
+# Python 
+🐍
 Skills: Data cleaning, wrangling, visualisation, analysis
 
 Libraries: pandas, numpy, matplotlib, seaborn
