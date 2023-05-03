@@ -8,13 +8,13 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 
 # 💡 My Skills
 - Data preparation, quality assurance, and analysis
-- Database design and modelling
+- A/B Testing
 - Dashboard development and reporting
 - Exploratory data analysis
 
 # 🛠️ My Tools
 - Databases: SQL (PostgreSQL, MySQL), Excel
-- Python: NumPy, Pandas, statsmodel, scikit-learn
+- Python: NumPy, Pandas, statsmodels, scipy
 - Visualisation: Tableau, Matplotlib, Seaborn
 - Project Management: 
 
