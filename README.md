@@ -78,7 +78,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🛍 [Maven Fuzzy Factory - Ongoing] | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
+| 🛍 [Udiddit, A Social News Aggregator](https://github.com/Abhudeep/Udiddit-a-social-news-aggregator/blob/main/udiddit-a-social-news-aggregator-student-starter-templateZ.docx) | Part I: Investigate the existing schema, Part II: Create the DDL for your new schema, Part III: Migrate the provided data| Advanced SQL |  
 | 🎬 [Marketing Analytics Case Study - Ongoing]  |  |  | 
 | 🍜[Danny's Diner] |I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | |  
 | 🍕[Pizza Runner] |I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  |  
