@@ -67,7 +67,7 @@ These are a list of notebooks created by me, containing codes to **study, revise
 | **A/B Testing - solid base**|[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Analyze_ab_test_results_notebook.ipynb)| Basics of A/B testing, examples and learning |
 | **Regression**| [link]()||
 | **Classification** |[link]()||
-| **SQL** |[link]()||
+| **SQL** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/SQL.ipynb)||
 
 
 # SQL
