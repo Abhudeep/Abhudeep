@@ -80,16 +80,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 |---|---|---|
 | 🆔 [Udiddit, A Social News Aggregator](https://github.com/Abhudeep/Udiddit-a-social-news-aggregator/blob/main/udiddit-a-social-news-aggregator-student-starter-templateZ.docx) | Part I: Investigate the existing schema, Part II: Create the DDL for your new schema, Part III: Migrate the provided data| Advanced SQL |  
 | 🌴 [Report for ForestQuery into Global Deforestation](https://github.com/Abhudeep/Report-for-ForestQuery-into-Global-Deforestation/blob/main/deforestation-exploration-project-template.pdf) | Prepare and disseminate a report that uses complete sentences to help them understand the global deforestation overview with numbers derived from SQL queries | Advanced SQL | 
-| 🍜[Danny's Diner] |I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | |  
-| 🍕[Pizza Runner] |I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  |  
-| 🥑[Foodie-Fi] |I use subscription-style digital data to analyze customer journey, payments, and business performance.  |  |  
-| 🏦[Data Bank]() |Using the Data Bank data, I calculate metrics and growth, and analyze data for future planning and development through linking customers' cloud data storage limits to their account balances.  |  |  
-| 🌽[Data Mart] |In this project, I measure the effect of changes in June 2020 on Data Mart's sales performance, identifying the most affected platform, region, segment, and customer types, and finding ways to minimize future sustainability updates' impact on sales.  |  |  
-| 🎣[Clique Bait] |To support the founder and CEO Danny's vision, I analyze the dataset for the Clique Bait online store, and develop creative solutions for calculating funnel fallout rates.  |  |  
-| 🍒[Fresh Segments] |I analyse customer behavior and interests to help clients understand their customers.  |  |  
-| 👩🏻‍⚕️ [Health Analytics Case Study] |  | Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median) |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market] | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  |
-| 👩🏻‍💼 [Streamlining Employee Data] |  |  |
+
 
 ***
 
@@ -107,14 +98,6 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | 🚲 [Ford GoBike System Data](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Ford_GoBike-part2.ipynb) | EDA | Analysis of this data set which includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.| _pandas, matplotlib, seaborn_ |
 |🐶 [WeRateDogs](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Wrangle%20and%20Analyze%20Data%20-%20WeRateDogs.ipynb) | EDA, Wrangle | Discovered insights by cleaning data, Storing data, analyzing and visualizing data of twitter. | _pandas, matplotlib, seaborn_ |
 
-## Guided Projects
-
-| Project Name | Area | Description | Libraries |    
-|---|---|---|---|
-| 🎶 [Online Music Streaming] | Machine Learning | I learn how to create and train a model called Music Recommender which suggests music genre based on user profiles. | _pandas, scikit-learn_ |
-| 🏙 [Exploring the NYC Airbnb Market] | EDA | Exploring Airbnb datasets and conducting a pricing analysis between Airbnb and private rentals. | _pandas, numpy, datetime_ |
-| 📢 [Generating Keywords for Google Ads] | EDA |  | _pandas, pprint_ |
-| 🎞 [Investigating Netflix Movies and Guest Stars in The Office] | EDA |  | _pandas, matplotlib_ |
 
 ***
 
