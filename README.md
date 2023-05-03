@@ -1,5 +1,5 @@
 # 📚 Hi, and welcome to my GitHub repository! 🙋🏻‍♀️
-I am **Abhudeep Arora**, project manager, data analyst and a data analytics and data science content creator and data learner!
+I am **Abhudeep Arora**, engineer, project manager, data scientist and a data analytics and data science learner!
 
 Thanks for visiting my [portfolio](#Portfolio) for technical audiences here on Github!
 
