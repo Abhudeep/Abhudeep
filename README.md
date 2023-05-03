@@ -79,7 +79,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 | Project Name | Description | SQL Functions |
 |---|---|---|
 | 🛍 [Udiddit, A Social News Aggregator](https://github.com/Abhudeep/Udiddit-a-social-news-aggregator/blob/main/udiddit-a-social-news-aggregator-student-starter-templateZ.docx) | Part I: Investigate the existing schema, Part II: Create the DDL for your new schema, Part III: Migrate the provided data| Advanced SQL |  
-| 🎬 [Report for ForestQuery into Global Deforestation](https://github.com/Abhudeep/Report-for-ForestQuery-into-Global-Deforestation/blob/main/deforestation-exploration-project-template.pdf) | Prepare and disseminate a report that uses complete sentences to help them understand the global deforestation overview with numbers derived from SQL queries | Advanced SQL | 
+| 🌴 [Report for ForestQuery into Global Deforestation](https://github.com/Abhudeep/Report-for-ForestQuery-into-Global-Deforestation/blob/main/deforestation-exploration-project-template.pdf) | Prepare and disseminate a report that uses complete sentences to help them understand the global deforestation overview with numbers derived from SQL queries | Advanced SQL | 
 | 🍜[Danny's Diner] |I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | |  
 | 🍕[Pizza Runner] |I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  |  
 | 🥑[Foodie-Fi] |I use subscription-style digital data to analyze customer journey, payments, and business performance.  |  |  
