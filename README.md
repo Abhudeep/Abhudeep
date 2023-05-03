@@ -93,7 +93,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ***
 
-# 🐍 Python
+# Python 🐍
 
 Skills: Data cleaning, wrangling, visualisation, analysis
 
