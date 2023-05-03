@@ -49,7 +49,7 @@ Welcome to my Portfolio  where I provide a walkthrough to all of my notebooks, d
 Feel free to chat with me on [LinkedIn]() about my projects!
 
 ## 📚 Table of Contents
-- [Abhu's Guides](#Abhu'sGuides)
+- [Abhu's Guides](#Abhu's-Guides)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
