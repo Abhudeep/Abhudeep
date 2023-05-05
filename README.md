@@ -105,7 +105,6 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge] |  | [Link]() |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market] | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link]() |
+| 🦄 [Sample Superstore] |  | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
 
 ***
