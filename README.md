@@ -68,7 +68,7 @@ These are a list of notebooks created by me, containing codes to **study, revise
 | **Regression**| [link]()|⚠️ In progress|
 | **Classification** |[link]()|⚠️ In progress|
 | **Deep Learning** |[link]()|⚠️ In progress|
-| **SQL** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/SQL.ipynb)|Comprehensive sql tutorial|
+| **SQL** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/SQL.ipynb)|Comprehensive sql tutorial : <ul><li> **Basic SQL**: Introduction to SQL; SELECT FROM statement; WHERE statement; ORDER BY statement, LIMIT statement, DISTINCT </li><li>**LOGICAL and COMPARISON Operators** </li><li>**Aggregates**: Aggregate Functions (COUNT, SUM, MIN/MAX, AVG); GROUP BY clause; HAVING clause </li><li>**Conditional Expressions**: CASE WHEN, COALESCE, IFNULL</li><li>**JOINS and UNIONS**</li><li>**Subqueries and Common Table Expressions**</li><li>**String Manipulations**</li><li>**Date-time manipulation**: EXTRACT, DATE_ADD(), DATE_SUB(), DATE_DIFF()</li><li>**Windows Functions**: ROW_NUMBER(), RANK(), DENSE_RANK(), LAG, LEAD, SUM, COUNT, AVG|
 
 
 # SQL
