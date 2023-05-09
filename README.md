@@ -20,7 +20,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 
 # 🙌🏻 Connect with Me
 - [Linkedin] (#)
-- [Medium] (#)
+- [Medium](https://medium.com/@abhujosh)
 - [Kaggle] (#)
 
 # 🏆 My Credentials
