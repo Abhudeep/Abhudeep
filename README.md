@@ -21,7 +21,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 # 🙌🏻 Connect with Me
 - [Linkedin] (#)
 - [Medium](https://medium.com/@abhujosh)
-- [Kaggle] (#)
+- [Kaggle](https://www.kaggle.com/abhudeepkaur)
 
 # 🏆 My Credentials
 | Credential Name | Link to Credential | Description |
