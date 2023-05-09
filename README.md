@@ -106,7 +106,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
 | 🏪 Sample Superstore Dashboard | Analysis of sales data to find out highest revenue and profit product categories and top customer segments, visually! | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
-| 🏪 Business Metric Dashboard |  | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
+| 🏪 Business Metric Dashboard | This is the first stop for leaders to learn about the composition of their workforce and key trends across hiring, headcount, demographic diversity, and attrition. Metrics can be viewed by several different dimensions including Department, Job Level, and Country to enable comparisons and identify hotspots. <ul><li>**Answers Key Business Questions:** <ul><li> How are we progressing in representation of Women, globally, and Underrepresented Minorities (URMs), within the U.S.?</li><li> What is our current employee attrition, how is it trending, and which departments are experiencing the highest rates of attrition? </li><li> How much has our organization grown since the prior fiscal year? </li><li> In which departments are we hiring the most employees? <ul><li>**Key Tools used:**<ul><li> | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
 
 
 ***
