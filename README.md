@@ -105,7 +105,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| 🏪 Sample Superstore Dashboard |  | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
+| 🏪 Sample Superstore Dashboard | Analysis of sales data to find out highest revenue and profit product categories and top customer segments, visually! | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
 | 🏪 Business Metric Dashboard |  | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
 
 
