@@ -106,5 +106,6 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
 | 🦄 [Sample Superstore] |  | [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879) |
+||| [Link](https://public.tableau.com/app/profile/abhudeep.kaur7879/viz/Book-HRAnalytics/Dashboard1?publish=yes)
 
 ***
