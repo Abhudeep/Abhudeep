@@ -19,7 +19,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 - Project Management: 
 
 # 🙌🏻 Connect with Me
-- [Linkedin] (#)
+- [Linkedin](https://www.linkedin.com/in/abhudeep-arora)
 - [Medium](https://medium.com/@abhujosh)
 - [Kaggle](https://www.kaggle.com/abhudeepkaur)
 
