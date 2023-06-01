@@ -16,7 +16,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 - Databases: SQL (PostgreSQL, MySQL), Excel
 - Python: NumPy, Pandas, Statsmodels, Scipy
 - Visualisation: Tableau, Matplotlib, Seaborn
-- Project Management: 
+
 
 # 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/abhudeep-arora)
