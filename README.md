@@ -39,6 +39,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |  **Trustworthy online controlled experiments: A practical guide to A/B testing.** Kohavi, R., Tang, D. and Xu, Y., 2020, Cambridge University Press. | [link](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) |
 | **Hypothesis Testing: An Intuitive Guide for Making Data Driven Decisions** Jim Frost| [link](https://www.amazon.com/Hypothesis-Testing-Intuitive-Making-Decisions/dp/173543115X)|
+| **Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models** Jim Frost| [link](https://www.amazon.com/Regression-Analysis-Intuitive-Interpreting-Linear/dp/1735431184)|
 
 # Portfolio  
 🗺
