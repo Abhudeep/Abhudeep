@@ -19,7 +19,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 
 
 # 🙌🏻 Connect with Me
-- [Linkedin](linkedin.com/in/abhudeep-kaur-arora-ab9b9827a)
+- [Linkedin](https://www.linkedin.com/in/abhudeep-kaur-arora-ab9b9827a/)
 - [Medium](https://medium.com/@abhujosh)
 - [Kaggle](https://www.kaggle.com/abhudeepkaur)
 
