@@ -6,11 +6,11 @@ Thanks for visiting my [portfolio](#Portfolio) here on Github!
 # 📚 Projects & Guides 📚
 In my portfolio, you can find my projects and guides on data analytics, machine learning, deep learning and data science!
 
-# 💡 My Skills
-- Scrum Framework, Agile Methodology, Software as a Service (SaaS), Software Development Life Cycle (SDLC), Product Strategy, User Research, Statistical Analysis and Inference, Machine Learning, Feature Engineering, Data Visualization, Data Wrangling, A/B testing
-
 # 🛠️ My Tools
 - Jira, Confluence, Wiki, Asana, Salesforce, PostgreSQL, Tableau, Excel, Jupyter Notebook, C++, Python (NumPy, Pandas, Statsmodels, Scikit-learn), Google Analytics, Axure, Xmind
+  
+# 💡 My Skills
+- Scrum Framework, Agile Methodology, Software as a Service (SaaS), Software Development Life Cycle (SDLC), Product Strategy, User Research, Statistical Analysis and Inference, Machine Learning, Feature Engineering, Data Visualization, Data Wrangling, A/B testing
 
 # 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/abhudeep-kaur-arora-ab9b9827a/)
