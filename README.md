@@ -13,7 +13,7 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
 - Scrum Framework, Agile Methodology, Software as a Service (SaaS), Software Development Life Cycle (SDLC), Product Strategy, User Research, Statistical Analysis and Inference, Machine Learning, Feature Engineering, Data Visualization, Data Wrangling, A/B testing
 
 # 🙌🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/abhudeep-kaur-arora-ab9b9827a/)
+- [Linkedin](http://www.linkedin.com/in/abhudeep-kaur)
 - [Medium](https://medium.com/@abhujosh)
 - [Kaggle](https://www.kaggle.com/abhudeepkaur)
 
