@@ -1,5 +1,5 @@
 # 📚 Hi, and welcome to my GitHub repository! 🙋🏻‍♀️
-I am **Abhudeep Kaur Arora**, an engineer, lead product manager and a data learner!
+I am **Abhudeep Kaur Arora**, an engineer and a data learner!
 
 Thanks for visiting my [portfolio](#Portfolio) here on Github!
 
@@ -11,11 +11,6 @@ In my portfolio, you can find my projects and guides on data analytics, machine 
   
 # 💡 My Skills
 - Scrum Framework, Agile Methodology, Software as a Service (SaaS), Software Development Life Cycle (SDLC), Product Strategy, User Research, Statistical Analysis and Inference, Machine Learning, Feature Engineering, Data Visualization, Data Wrangling, A/B testing
-
-# 🙌🏻 Connect with Me
-- [Linkedin](http://www.linkedin.com/in/abhudeep-kaur)
-- [Medium](https://medium.com/@abhujosh)
-- [Kaggle](https://www.kaggle.com/abhudeepkaur)
 
 
 # 🏆 My Credentials
