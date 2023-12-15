@@ -90,7 +90,6 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | 🚲 [Ford GoBike System Data](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Ford_GoBike-part2.ipynb) | EDA | Analysis of this data set which includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.| _pandas, matplotlib, seaborn_ |
 |🐶 [WeRateDogs](https://github.com/Abhudeep/Udacity-Data-Analyst-Nanodegree/blob/main/Wrangle%20and%20Analyze%20Data%20-%20WeRateDogs.ipynb) | EDA, Wrangle | Discovered insights by cleaning data, Storing data, analyzing and visualizing data of twitter. | _pandas, matplotlib, seaborn_ |
 
-
 ***
 
 # Tableau
