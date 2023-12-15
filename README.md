@@ -37,8 +37,6 @@ Hi there! 🙋🏻‍♀️
 
 Welcome to my Portfolio  where I provide a walkthrough to all of my notebooks, data science projects and courses.
 
-Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/abhudeep-arora) about my projects!
-
 ## 📚 Table of Contents
 - **[Abhu's Guides](#Abhu's-Guides)**
 - **[SQL](#sql)**
